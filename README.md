@@ -16,16 +16,16 @@ When I'm not working you can find me: 🏀🏐🏃🏼‍♂️‍➡️🏔️�
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuelinoFrischezz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelinoFrischezz&layout=compact&theme=radical)
 
 ---
 <!--
 ## 🚀 Projects
 
-- 🔹 [Project 1](https://github.com/YOUR_USERNAME/project1) — short description  
-- 🔹 [Project 2](https://github.com/YOUR_USERNAME/project2) — short description  
-- 🔹 [Project 3](https://github.com/YOUR_USERNAME/project3) — short description  
+- 🔹 [Project 1](https://github.com/ManuelinoFrischezz/project1) — short description  
+- 🔹 [Project 2](https://github.com/ManuelinoFrischezz/project2) — short description  
+- 🔹 [Project 3](https://github.com/ManuelinoFrischezz/project3) — short description  
 -->
 ---
 
