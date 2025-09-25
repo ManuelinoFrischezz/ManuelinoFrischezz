@@ -5,6 +5,8 @@ I'm a Computer Engineering passionate about Data Science, Data Engineering and S
 
 When I'm not working you can find me: 🏀🏐🏃🏼‍♂️‍➡️🏔️🍻
 
+That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, enjoy.
+
 ---
 <!--
 ## 🔧 Tech Stack
