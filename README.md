@@ -1,9 +1,6 @@
 # 👋 Hey everyone, I'm Federico
-
-Welcome to my GitHub page! 🚀  
-I'm a Computer Engineering passionate about Data Science, Data Engineering and Software Development. Currently I'm working in the Data Science and GenAI fields and in my free time I try to deepen my knowledge in the Big Data pipeline creation. 
-
-When I'm not working you can find me: 🏀🏐🏃🏼‍♂️‍➡️🏔️🍻
+ 
+I'm a Computer Engineering passionate about Data Science, Data Engineering, Software Development and Control System Theory. Currently I'm working in the Data Science and GenAI fields and in my free time I try to deepen my knowledge in computer related stuff or practicing sports: 🏀🏐🏃🏼‍♂️‍➡️🏔️🍻
 
 That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, enjoy.
 
