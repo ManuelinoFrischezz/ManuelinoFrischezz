@@ -26,8 +26,8 @@ That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, e
 - 🔹 [Project 1](https://github.com/ManuelinoFrischezz/project1) — short description  
 - 🔹 [Project 2](https://github.com/ManuelinoFrischezz/project2) — short description  
 - 🔹 [Project 3](https://github.com/ManuelinoFrischezz/project3) — short description  
--->
 ---
+-->
 
 ## 📬 Contact
 
