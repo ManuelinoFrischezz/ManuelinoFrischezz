@@ -13,10 +13,12 @@ That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, e
 -->
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuelinoFrischezz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelinoFrischezz&layout=compact&theme=radical)
+-->
 
 ---
 <!--
@@ -35,8 +37,6 @@ That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, e
 - 📧 [Email](mailto:atteznap2010@gmail.com)
 
 ---
-
-⚠️ IN PROGRESS ⚠️
 
 <!--
 **ManuelinoFrischezz/ManuelinoFrischezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
