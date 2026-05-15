@@ -10,18 +10,17 @@ That's why my name is what it is: https://www.youtube.com/watch?v=L5otNdhaeeI, e
 
 - 💻 **Languages**: Python, MATLAB, C    
 - 🛠️ **Tools**: Git, Docker  
--->
+
 ---
 
-<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuelinoFrischezz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelinoFrischezz&layout=compact&theme=radical)
--->
+
 
 ---
-<!--
+
 ## 🚀 Projects
 
 - 🔹 [Project 1](https://github.com/ManuelinoFrischezz/project1) — short description  
